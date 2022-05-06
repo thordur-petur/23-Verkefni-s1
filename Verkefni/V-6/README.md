@@ -1,6 +1,8 @@
-# Undirbúningur og skipulagning vefs
+# Verkefni 6
 
-Verkefni 6 er undirbúningsvinna og skipulagning lokaverkefnisins. Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst.  Nemendur geta unnið verkefnið sem einstaklingsverkefni eða tveir saman. 
+## Undirbúningur og skipulagning vefs
+
+Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst.  Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman*](#Hópverkefni). 
 
 #### Markmið
 
@@ -12,34 +14,7 @@ Nemendur geta unnið skipulega að:
 * Tengirit - _"WireFrame"_
 * Frumgerð - _"Prototype"_ 
 
-### Verkefnastjórn
 
-Nemendur eiga að nota **GitHub "_Project_"**
-
-1. Hugmyndavinna og efnisöflun
-   * Skráið allar hugmyndir, skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
-2. Verkstjórn
-   * Hvað á að gera (_To do_)
-   * Hver gerir hvað (_Samvinna_)
-   * Í vinnslu (_In progress_)
-   * Lokið (_Done_)
-
-### Samvinna
-
-Ef nemendur velja að vinna saman verða þeir að skila verkefnaáætlun þar sem tekið er fram hver framkvæmir hvern verkþátt. 
-
-Dæmi:
-
-1. Hugmyndavinna - Jón og Gunna
-2. Tengirammi - Jón og Gunna
-3. Efnisöflun - Gunna
-4. Myndvinnsla - Jón
-5. Stílbragð - Gunna
-6. Frumgerð, forsíða - Gunna
-7. Frumgerð, samskiptasíða - Jón
-8. ...
-
-.. Haldið áfram með verkefnaáætlunina fyrir fullvinnslu vefsins og þegar vefurinn er tilbúinn er hægt að gera upp verkefnaáætlunina. Hvernig gekk samvinnan? Var áætlunin raunhæf? 
 
 ### Hugmyndavinna 
 
@@ -73,6 +48,37 @@ Dæmi:
 * Skipulag í mismunandi skjástærðum  
 
 Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d InkScape, Photoshop, InDesign ofl.
+
+# Hópverkefni
+
+### Verkefnastjórn
+
+Nemendur eiga að nota **GitHub "_Project_"**
+
+1. Hugmyndavinna og efnisöflun
+   * Skráið allar hugmyndir, skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
+2. Verkstjórn
+   * Hvað á að gera (_To do_)
+   * Hver gerir hvað (_Samvinna_)
+   * Í vinnslu (_In progress_)
+   * Lokið (_Done_)
+
+### Samvinna
+
+Ef nemendur velja að vinna saman verða þeir að skila verkefnaáætlun þar sem tekið er fram hver framkvæmir hvern verkþátt. 
+
+Dæmi:
+
+1. Hugmyndavinna - Jón og Gunna
+2. Tengirammi - Jón og Gunna
+3. Efnisöflun - Gunna
+4. Myndvinnsla - Jón
+5. Stílbragð - Gunna
+6. Frumgerð, forsíða - Gunna
+7. Frumgerð, samskiptasíða - Jón
+8. ...
+
+.. Haldið áfram með verkefnaáætlunina fyrir fullvinnslu vefsins og þegar vefurinn er tilbúinn er hægt að gera upp verkefnaáætlunina. Hvernig gekk samvinnan? Var áætlunin raunhæf? 
 
 #### Námsmat 12% af heildareinkunn
 
