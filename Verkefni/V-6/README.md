@@ -6,13 +6,23 @@ Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllun
 
 #### Markmið
 
-Nemendur geta unnið skipulega að:
+Nemendur skipuleggja eftirfarandi þætti:
 
-* Efnisöflun og hugmyndavinnu
-* Verkáætlun í Github _"Project"_
+* Efnisöflun og hugmyndavinna
+  * Skrifið niður allar hugmyndir og safnið efni í möppuna ["Vinnugogn"](Vinnugogn/README.md)
+* Verkáætlun 
+  * [Skrifið niður hvað á að gera](Verkáætlun.md)
 * Vefyfirlit - _"SiteMap"_
+  * 
 * Tengirit - _"WireFrame"_
+  * 
 * Frumgerð - _"Prototype"_ 
+  * Leturgerð
+    * svar: 
+  * Litir
+    * svar:
+  * Skissa af útliti 
+    * ![skissa](demo.jpg)
 
 
 
