@@ -8,20 +8,20 @@ Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaði
 
 í Inkscape er [hægt að velja sömu leturgerðir](Hvernig%20á%20að%20setja%20Google%20leturgerð%20í%20tölvuna%20mína.pdf) og við getum notað á vefnum þannig að myndin af stílbragðinu kemur að góðum notum.
 
-![Stílbragð](stílbragð.jpg)<br>
+![Stílbragð](images/stílbragð.jpg)<br>
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
 
 #### Dæmi um frumgerð sem er unnin í Inkscape
 
 Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
 
-![1280](prototype1280x3200-OUT.svg)
+![1280](svg/prototype1280x3200-OUT.svg)
 
 ### Inkscape stillingar
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál (_Units_) Inkscape í **Pixel**.
 
-![Inkscape document properties](document-properties.jpg)
+![Inkscape document properties](images/document-properties.jpg)
 
 Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 
@@ -49,10 +49,10 @@ Hæð skjalsin ræðst af innihaldi vefsins þannig að 3200px er bara tala sem 
 
 Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við Grid eins og sýnt er hér á mynd.
 
-![Grid 16px](grids-16px.jpg)
+![Grid 16px](images/grids-16px.jpg)
 
 Með 16px grid er auðvelt að skilgreina stærðir.
 
-![Grid 16px](Skjámynd1280x800.jpg)
+![Grid 16px](images/Skjámynd1280x800.jpg)
 
-[Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)
+[Bjargir](https://github.com/vefhonnun/22H/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)
