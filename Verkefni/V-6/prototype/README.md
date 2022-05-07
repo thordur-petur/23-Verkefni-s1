@@ -2,7 +2,7 @@
 
 Í frumgerð erum við að skoða útlit, flæði og notagildi (UX). Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfangans.
 
-Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d InkScape, Photoshop, InDesign ofl.
+Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d InkScape, Photoshop, InDesign ofl. Hér að neðan er dæmi um stílbragð og frumgerð.
 
 ## Stílbragð (_Style tyle_)
 
