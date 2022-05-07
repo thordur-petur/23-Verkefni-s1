@@ -17,7 +17,7 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Tengirit - _"WireFrame"_
   * [Skrifið niður hvað á að gera](Hönnun.md)
 * Frumgerð - _"Prototype"_ 
-  [Skrifið niður hvað á að gera](Hönnun.md#Frumgerð)
+  [Skissugerð](Hönnun.md#Frumgerð---prototype)
 
 
 #### Námsmat 12% af heildareinkunn
