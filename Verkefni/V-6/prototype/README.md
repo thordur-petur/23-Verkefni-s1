@@ -8,14 +8,14 @@
 
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
 
+![Stílbragð](stílbragð.jpg)<br>
+_Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
+
 ## Frumgerð í Inkscape (_Prototype_)
 
 Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
 í Inkscape er [hægt að velja sömu leturgerðir](Hvernig%20á%20að%20setja%20Google%20leturgerð%20í%20tölvuna%20mína.pdf) og við getum notað á vefnum þannig að myndin af stílbragðinu kemur að góðum notum.
-
-![Stílbragð](stílbragð.jpg)<br>
-_Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
 
 #### Dæmi um frumgerð sem er unnin í Inkscape
 
