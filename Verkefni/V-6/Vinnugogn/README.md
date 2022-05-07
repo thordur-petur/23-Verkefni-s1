@@ -8,7 +8,7 @@ Hér á að skrá niður allar hugmyndir og síðan finna heimildir sem hægt er
 
 1. Útgáfufyrirtækið (skrifið hér)
 2. Veljið starfsgrein (skrifið hér)
-  a. (Tónlist) 
-  b. (Tölvuleikir)
-  c. (Íþrótt)
+   a. (Tónlist) 
+   b. (Tölvuleikir)
+   c. (Íþrótt)
 
