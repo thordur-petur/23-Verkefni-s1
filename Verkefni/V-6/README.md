@@ -28,6 +28,6 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Flæði - _Wireframe_     2%
 * Frumgerð - _Prototype_     4%
 
-#### Verkefnaskil: Öllum undirbúningsgögnum er skilað hér.
+#### Verkefnaskil: Öllum undirbúningsgögnum er skilað í áfangageymsluna/V-6/Vinnugogn 
 
 #### Einkunn verður birt í Innu
