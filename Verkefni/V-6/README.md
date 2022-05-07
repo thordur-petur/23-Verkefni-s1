@@ -17,7 +17,7 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Tengirit - _"WireFrame"_
   * [Búið til leiðakerfi](wireframe/README.md)
 * Frumgerð - _"Prototype"_ 
-  [Útlitshönnun](prototype/README.md)
+  * [Útlitshönnun](prototype/README.md)
 
 
 #### Námsmat 12% af heildareinkunn
