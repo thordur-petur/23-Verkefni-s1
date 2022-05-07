@@ -2,7 +2,8 @@
 
 ## Undirbúningur og skipulagning vefs
 
-Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst.  Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman*](Hópverkefni.md). 
+Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst.  
+Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hópverkefni.md). 
 
 #### Markmið
 

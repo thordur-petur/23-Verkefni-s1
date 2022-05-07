@@ -1,16 +1,13 @@
-# Hópverkefni
+# Hópverkefni - Verkefnastjórn
 
-### Verkefnastjórn
+Ef nemendur velja að vinna saman að lokaverkefni þá skiptir máli að skipuleggja verkefnið ýtarlega. Farið er fram á að verkefnaáætlun sé gerð þar sem fram kemur hvað gerir hver og hvenær.
 
-1. Hugmyndavinna og efnisöflun
-   * Skráið allar hugmyndir, skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
-2. Verkstjórn
    * Hvað á að gera (_To do_)
-   * Hver gerir hvað (_Samvinna_)
    * Í vinnslu (_In progress_)
+     * Hver gerir hvað 
    * Lokið (_Done_)
 
-### Samvinna
+### Verkefnaáætlun
 
 Takið fram hver framkvæmir hvern verkþátt. 
 
