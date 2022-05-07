@@ -22,10 +22,12 @@ Nemendur skipuleggja eftirfarandi þætti:
 
 #### Námsmat 12% af heildareinkunn
 
-* Skipulagsvinna í Github _Project_  2%
+* Hugmyndavinna 2%
+* Efnisöflun og Textavinna 2%
+* Efnisyfirlit - _Site Map_ 2%
 * Flæði - _Wireframe_     2%
-* Frumgerð - _Prototype_     8%
+* Frumgerð - _Prototype_     4%
 
-#### Verkefnaskil: Öllum vinnugögnum er skilað í skilahólf í Innu 
+#### Verkefnaskil: Öllum undirbúningsgögnum er skilað hér.
 
 #### Einkunn verður birt í Innu
