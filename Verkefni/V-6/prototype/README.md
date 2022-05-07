@@ -1,21 +1,16 @@
-## Frumgerð - _"Prototype"_
+# Frumgerð - _"Prototype"_
 
-**Í frumgerð erum við að skoða útlit, flæði og notagildi (UX)**
-
-* Litasamsetning
-* Leturval 
-* Staðsetning mynda (rammar)
-* Skipulag í mismunandi skjástærðum  
+Í frumgerð erum við að skoða útlit, flæði og notagildi (UX). Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfangans.
 
 Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d InkScape, Photoshop, InDesign ofl.
 
-### Stílbragð (_Style tyle_)
+## Stílbragð (_Style tyle_)
 
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
 
-# Frumgerð í Inkscape (_Prototype_)
+## Frumgerð í Inkscape (_Prototype_)
 
-Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfangans. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
+Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
 í Inkscape er [hægt að velja sömu leturgerðir](Hvernig%20á%20að%20setja%20Google%20leturgerð%20í%20tölvuna%20mína.pdf) og við getum notað á vefnum þannig að myndin af stílbragðinu kemur að góðum notum.
 
