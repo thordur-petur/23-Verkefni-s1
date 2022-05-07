@@ -12,12 +12,12 @@ Nemendur skipuleggja eftirfarandi þætti:
   * Skrifið niður allar hugmyndir og safnið efni í möppuna ["Vinnugogn"](Vinnugogn/README.md)
 * Verkáætlun 
   * [Skrifið niður hvað á að gera](Verkáætlun.md)
-* Vefyfirlit - _"SiteMap"_
+* Skipurit - _"SiteMap"_
   * [Búið til efnisyfirlit](Sitemap.md)
 * Tengirit - _"WireFrame"_
   * [Búið til leiðakerfi](wireframe/README.md)
 * Frumgerð - _"Prototype"_ 
-  [Útlitshönnun](Hönnun.md#Frumgerð---prototype)
+  [Útlitshönnun](prototype/README.md)
 
 
 #### Námsmat 12% af heildareinkunn
