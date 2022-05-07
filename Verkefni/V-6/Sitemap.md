@@ -1,6 +1,8 @@
 
 ## Skipurit - _Sitemap_
 
+Dæmi um einfalt skipurit
+
 ```
   Forsíða (index) - stutt lýsing á hvað á að vera á forsíðunni
   |_ Um okkur - stutt lýsing á hvað á að vera á síðunni (eða undirkafla)
