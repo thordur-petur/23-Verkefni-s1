@@ -15,7 +15,7 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Vefyfirlit - _"SiteMap"_
   * [Búið til efnisyfirlit](Sitemap.md)
 * Tengirit - _"WireFrame"_
-  * [Búið til leiðakerfi](Hönnun.md)
+  * [Búið til leiðakerfi](wireframe/README.md)
 * Frumgerð - _"Prototype"_ 
   [Útlitshönnun](Hönnun.md#Frumgerð---prototype)
 
