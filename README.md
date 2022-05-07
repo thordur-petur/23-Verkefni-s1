@@ -2,6 +2,8 @@
 
 <img src="https://github.com/vefhonnun/22H/blob/main/img/22H-VEF2VH-logo.jpg" width="180" height="180" />
 
+### Vefhönnun
+
 * Í fyrsta verkefninu setja nemendur upp vef með eigin grunnstílsíðu (_CSS boilerplate_). 
 * Í næstu þremur verkefnunum er bætt við grunninn öllum helstu þáttum útlitshönnunar og virkni sem hægt er að nota í vefhönnun. 
 * Í fimmta verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn. 
