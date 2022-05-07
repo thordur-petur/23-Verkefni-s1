@@ -8,8 +8,7 @@
 
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
 
-![Stílbragð](stílbragð.jpg)<br>
-_Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
+![Stílbragð](stílbragð.jpg) 
 
 ## Frumgerð í Inkscape (_Prototype_)
 
