@@ -13,11 +13,11 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Verkáætlun 
   * [Skrifið niður hvað á að gera](Verkáætlun.md)
 * Vefyfirlit - _"SiteMap"_
-  * [Skrifið niður hvað á að gera](Hönnun.md)
+  * [Búið til efnisyfirlit](Hönnun.md)
 * Tengirit - _"WireFrame"_
-  * [Skrifið niður hvað á að gera](Hönnun.md)
+  * [Búið til leiðakerfi](Hönnun.md)
 * Frumgerð - _"Prototype"_ 
-  [Skissugerð](Hönnun.md#Frumgerð---prototype)
+  [Útlitshönnun](Hönnun.md#Frumgerð---prototype)
 
 
 #### Námsmat 12% af heildareinkunn
