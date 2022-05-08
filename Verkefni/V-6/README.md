@@ -1,17 +1,13 @@
 # Verkefni 6
 
-## Undirbúningur og skipulagning vefs
-
-Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst.  
+Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. _Efnistök eru frjáls_
 
 Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hópverkefni.md). 
-
-#### Markmið
 
 Nemendur skipuleggja eftirfarandi þætti:
 
 * Efnisöflun og hugmyndavinna
-  * Skrifið niður allar hugmyndir og safnið efni í möppuna ["Vinnugogn"](Vinnugogn/README.md)
+  * Skrifið niður allar hugmyndir hér í ["Vinnugogn"](Vinnugogn/README.md)
 * Verkáætlun 
   * [Skrifið niður hvað á að gera](Verkáætlun.md)
 * Skipurit - _"SiteMap"_

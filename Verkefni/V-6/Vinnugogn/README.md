@@ -1,8 +1,16 @@
 # Hugmyndavinna
 
+Kynningarvefurinn getur fjallað um 
+
+* Tölvuleikjamót 
+* Íþróttamót 
+* Tónlistarviðburð
+* Annað (_Þarf samþykki kennara_) 
+
 1. Skráið niður allar hugmyndir sem koma til greina
 2. Veljið síðan eina hugmynd til að halda áfram með 
-3. Finnið heimildir (texta og myndir) sem hægt er að nota í lokaverkefninu (Vistið gögnin hér í vinnugögnunum)
+3. Finnið heimildir (texta og myndir) sem hægt er að nota í lokaverkefninu 
+4. Vistið gögnin hér í "Vinnugogn"
 
 ### Niðurstaða
 
