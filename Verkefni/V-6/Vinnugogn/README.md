@@ -15,9 +15,8 @@ Kynningarvefurinn getur fjallað um
 ### Niðurstaða
 
 1. Útgáfufyrirtækið **(skrifið hér)** ætlar að halda viðburð **(skrifið hér)** 
-2. Lýsið í stuttu máli hvernig þessi viðburður er 
-3. Á hvaða tíma er hann haldin
+2. Lýsið í stuttu máli hvernig þessi viðburður er ....
+3. Á hvaða tíma er hann haldin ....
 4. Hvaða tilgangi þjónar vefurinn sem þú ætlar að búa til?
-   
-* Dæmi: Þeir sem skoða vefinn geta keypt sér miða á viðburðinn og séð hvað er í boði á viðburðinum
+   * Dæmi: Þeir sem skoða vefinn geta keypt sér miða á viðburðinn og séð hvað er í boði á viðburðinum
 
