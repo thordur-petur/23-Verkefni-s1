@@ -2,8 +2,6 @@
 
 Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. _Efnistök eru frjáls_
 
-Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hópverkefni.md). 
-
 Nemendur skipuleggja eftirfarandi þætti:
 
 * Efnisöflun og hugmyndavinna
@@ -17,6 +15,7 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Frumgerð - _"Prototype"_ 
   * [Útlitshönnun](prototype/README.md)
 
+Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hópverkefni.md). 
 
 #### Námsmat 12% af heildareinkunn
 
