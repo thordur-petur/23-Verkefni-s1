@@ -19,4 +19,3 @@ Kynningarvefurinn getur fjallað um
 3. Á hvaða tíma er hann haldin ....
 4. Hvaða tilgangi þjónar vefurinn sem þú ætlar að búa til?
    * Dæmi: Þeir sem skoða vefinn geta keypt sér miða á viðburðinn og séð hvað er í boði á viðburðinum
-
