@@ -1,6 +1,6 @@
 # Verkáætlun
 
-Sundurliðun verkþátta er nauðsynlegt í allri vinnu til að fá yfirsýn og aðhald í verkefnavinnuna.
+Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og aðhald í verkefnavinnuna.
 
 - [x] Finna efni til að vinna með
 - [ ] Skrifa texta
