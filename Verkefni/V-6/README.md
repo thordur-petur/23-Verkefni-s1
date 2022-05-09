@@ -25,6 +25,6 @@ Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hóp
 * Flæði - _Wireframe_     2%
 * Frumgerð - _Prototype_     4%
 
-#### Verkefnaskil: Öllum undirbúningsgögnum er skilað í áfangageymsluna/V-6/Vinnugogn 
+#### Verkefnaskil: Öllum undirbúningsgögnum er skilað hér í áfangageymsluna/V-6/
 
 #### Einkunn verður birt í Innu
