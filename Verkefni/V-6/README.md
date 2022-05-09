@@ -7,7 +7,7 @@ Nemendur skipuleggja eftirfarandi þætti:
 * Efnisöflun og hugmyndavinna
   * Skrifið niður allar hugmyndir hér í ["Vinnugogn"](Vinnugogn/README.md)
 * Verkáætlun 
-  * [Skrifið niður hvað á að gera](Verkáætlun.md)
+  * [Hvað þarf að gera til að klára V6](Verkáætlun.md)
 * Skipurit - _"SiteMap"_
   * [Búið til efnisyfirlit](Sitemap.md)
 * Tengirit - _"WireFrame"_
