@@ -23,7 +23,7 @@ Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hóp
 * Efnisöflun og Textavinna 3%
 * Efnisyfirlit - _Site Map_ 2%
 * Skipurit - _Wireframe_     3%
-* Stílbragð - _Style tile_  2%
+* Stílbragð - _Style tyle_  2%
 
 #### Verkefnaskil: Öllum undirbúningsgögnum er skilað hér í áfangageymsluna/V-6/
 
