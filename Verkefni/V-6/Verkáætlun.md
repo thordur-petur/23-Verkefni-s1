@@ -8,5 +8,5 @@ Sundurliðun verkþátta er nauðsynlegt í allri vinnu til að fá yfirsýn og 
 - [ ] Skipurit
 - [ ] Skissuvinna 
 - [ ] Skipulag (layout), litir og leturgerð
-- [ ] Skila undirbúningsgögnum og fá verkefnið samþykkt
+- [ ] Skila undirbúningsgögnum og fá verkefnið samþykkt til fullvinnslu
 
