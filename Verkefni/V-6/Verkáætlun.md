@@ -1,11 +1,12 @@
 # Verkáætlun
 
-Hvað þarf að gera til þess að klára lokaverkefnið
+Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og aðhald í verkefnavinnuna.
 
-1. Verkþáttur - finna efni til að vinna með
-2. Skrifa texta
-3. Myndvinnsla
-4. Skipurit
-5. Skissuvinna 
-6. Skila undirbúningsgögnum og fá verkefnið samþykkt
+- [x] Finna efni til að vinna með
+- [ ] Skrifa texta
+- [ ] Myndvinnsla
+- [ ] Skipurit
+- [ ] Skissuvinna 
+- [ ] Skipulag (layout), litir og leturgerð
+- [ ] Skila undirbúningsgögnum og fá verkefnið samþykkt til fullvinnslu
 
