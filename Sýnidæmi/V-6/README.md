@@ -16,7 +16,7 @@
 
 Hér er dæmi um leiðarkerfi (_Navigation_) fyrir vef sem er með rit- og umsjónarkerfi (_CMS Content Management System_). Við erum ekki að fara hanna svona flókinn vef en við getum haft hann til fyrirmyndar fyrir vefinn okkar.
 
-![Leiðakerfi vefs](https://github.com/vefhonnun/Verkefni/tree/main/S%C3%BDnid%C3%A6mi/V-6/vinnugogn/SVG/site-map-2015.svg)
+![Leiðakerfi vefs](/vinnugogn/SVG/site-map-2015.svg)
 
 <hr>
 
@@ -24,6 +24,6 @@ Hér er dæmi um leiðarkerfi (_Navigation_) fyrir vef sem er með rit- og umsj�
 
 Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
 
-![Tengirammi](/V-6/vinnugogn/SVG/Wireframe.svg)
+![Tengirammi](/vinnugogn/SVG/Wireframe.svg)
 
-Næst þarf að [hanna frumgerð](/V-6/vinnugogn/SVG/prototype.md)
+Næst þarf að [hanna frumgerð](/vinnugogn/SVG/prototype.md)
