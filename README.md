@@ -5,7 +5,7 @@
 * Í fimmta verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn. 
 * Nemendur vinna síðan að skipulagningu og frumgerð vefs sem er fylgt eftir í lokaverkefninu. 
 * Í lokaverkefninu nýta nemendur þá verkkunnáttu sem  hafa öðlast í áfanganum og VEFÞ1A til að gera frambærilegan vef.
-
+<!--
 ### Námsáætlun ath!
 
 | Vika  | Verkefni   | Vægi % |
@@ -14,6 +14,6 @@
 | 35  | Töflur og form   | 14  |
 | 36  | Efnisyfirlit  | 14  |
 | 37  |  CSS breytur | 14  |
-
+-->
 * [Bjargir](https://github.com/vefhonnun/22H/wiki)
 
