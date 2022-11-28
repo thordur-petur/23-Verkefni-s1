@@ -9,5 +9,6 @@
 
 * [RIFF](https://riff.is/)
 * [Norðan Paunk](https://www.nordanpaunk.org/)
+* [Skjaldborg Patró](https://skjaldborg.is/)
 
 
