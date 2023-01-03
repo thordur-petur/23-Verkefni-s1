@@ -15,12 +15,12 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 
 Það sem á að vera á vefnum:
 
-  * Upplýsingar um ferðir fyrirtækisins
-  * Listi yfir ferðirnar (tafla)
-  * Skráning í ferðirnar. (pöntunarform _aðeins útlit forms - engin virkni_)
-  * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
-  * Upplýsingar um fyrirtækið
-  * Efnisyfirlit (_drop down menu_)
+* Upplýsingar um ferðir fyrirtækisins
+* Listi yfir ferðirnar (tafla)
+* Skráning í ferðirnar. (pöntunarform _aðeins útlit forms - engin virkni_)
+* Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
+* Upplýsingar um fyrirtækið
+* Efnisyfirlit (_drop down menu_)
 
 
 * Efnisöflun og hugmyndavinna
