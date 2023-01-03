@@ -9,5 +9,8 @@
 * Unnið er með SVG teikningar og leturtáknsafn búið til í 6. verkefni
 * Í 7. verkefni er forsíðan "poppuð upp" með kvikun (_landing page_)
 
+## Verkefni
 
+1. [Verkefni](Verkefni-1/)
+2. 
 
