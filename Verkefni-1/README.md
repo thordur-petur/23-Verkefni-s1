@@ -12,6 +12,8 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 
 ### Þema Ferðaþjónusta
 
+Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. Ferðir í boði verða að vera raunhæfar a.mk. sannfærandi þannig að maður getur hugsað sér að fara í slíka ferð.
+
 Það sem á að vera á vefnum:
 
 * Upplýsingar um ferðir fyrirtækisins
