@@ -23,6 +23,7 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 * Upplýsingar um fyrirtækið
 * Efnisyfirlit (_drop down menu_)
 
+
 1. Efnisöflun og hugmyndavinna
    * Skrifið niður allar hugmyndir sem koma til greina
 2. Skipurit - _"SiteMap"_
