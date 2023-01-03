@@ -32,12 +32,12 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 ### Námsmat 12%
 
-#### Tafla 6%
+#### Tafla 
 * 3% 	Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar.  
 Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
 * 3% 	Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
 á litlum skjáum.
-### Form 6%
+#### Form 
 * 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * 3%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
