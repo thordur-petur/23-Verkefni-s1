@@ -41,6 +41,8 @@ Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
 * 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * 4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
+### [Sýnidæmi](https://vefhonnun.github.io/Synidaemi/verkefni-3/)
+
 ### Verkefnaskil
 
 Öllum vinnugögnum á að skila í verkefnageymsluna þína og tengil á verkefnið í Innu.
