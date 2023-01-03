@@ -1,4 +1,4 @@
-# Vefur fyrir viðburð
+# í vinnslu ....
 
 ### Markmið:
 Nemendur eiga að geta unnið skipulega að gerð vefs.
