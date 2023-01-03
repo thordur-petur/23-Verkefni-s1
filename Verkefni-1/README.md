@@ -49,6 +49,10 @@ Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hóp
 * Skipurit - _Wireframe_     3%
 * Stílbragð - _Style tyle_  2%
 
-#### Verkefnaskil: Öllum undirbúningsgögnum er skilað hér í áfangageymsluna/V-6/
+#### Verkefnaskil
+
+- Öllum undirbúningsgögnum er skilað í eigin **"Privat"** verkefnageymslu á github. 
+- Kennari þarf að fá aðgang að verkefnageymslunni (_Settings -> Collaborators -> Invite members_)
+- Tengill á verkefnageymluna er skilað í Innu
 
 #### Einkunn verður birt í Innu
