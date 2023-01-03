@@ -12,7 +12,7 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 
 ### Þema Ferðaþjónusta
 
-Það sem á að vera á vefnum:
+#### Það sem á að vera á vefnum:
 
 * Upplýsingar um ferðir fyrirtækisins
 * Listi yfir ferðirnar (tafla)
@@ -20,6 +20,8 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið
 * Efnisyfirlit (_drop down menu_)
+
+#### Verkáætlun
 
 1. Efnisöflun og hugmyndavinna
    * Skrifið niður allar hugmyndir sem koma til greina
