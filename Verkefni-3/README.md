@@ -4,9 +4,6 @@ Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðl
 
 Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.    
 
-Afritaðu Verkefni 1 yfir í Verkefni 2 möppuna og bættu síðan við töflu í vefsíðuna. Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
-í https://Github.com/vefhonnun/21h/Sýnidæmi/V2/ er dæmi um sveigjanlega töflu.
-
 ![Mynd 1.](Námsefni-3/mynd-1.jpg)
 Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
 
