@@ -12,14 +12,13 @@ Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytas
 
 ![Mynd 2.](Námsefni-3/mynd-2.jpg)
 
-### Skráningarform 
+## Skráningarform 
 
 Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
-  
-### FORM VALIDATION 
   
 ![Mynd 3.](Námsefni-3/mynd-3.jpg)
 
+#### Form réttritun (_validation_)
 Þegar smellt er á hnappinn (input submit) í skráningarforminu þá á vafrinn að athuga (validate) hvort einver texti hafi verið settur í alla innsláttarreitina. Ef reitirnir uppfylla ekki þau skilyrði þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni, ef allt er í lagi þá sendum við innsláttinn út í bláinn. 
 
 ` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
@@ -41,7 +40,6 @@ Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
 ### Form 6%
 * 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * 4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
-
 
 ### Verkefnaskil
 
