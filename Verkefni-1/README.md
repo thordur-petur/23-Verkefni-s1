@@ -24,13 +24,13 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 * Efnisyfirlit (_drop down menu_)
 
 1. Efnisöflun og hugmyndavinna
-  * Skrifið niður allar hugmyndir sem koma til greina
+   * Skrifið niður allar hugmyndir sem koma til greina
 2. Skipurit - _"SiteMap"_
-  * [Búið til efnisyfirlit](Sitemap.md)
+   * [Búið til efnisyfirlit](Sitemap.md)
 3. Tengirit - _"WireFrame"_
-  * [Búið til leiðakerfi](wireframe/README.md)
+   * [Búið til leiðakerfi](wireframe/README.md)
 4. Frumgerð - _"Prototype"_ 
-  * [Útlitshönnun](prototype/README.md)
+   * [Útlitshönnun](prototype/README.md)
 
 #### Námsmat 12% af heildareinkunn
 
