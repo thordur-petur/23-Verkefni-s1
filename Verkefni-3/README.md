@@ -1,6 +1,6 @@
-# Verkefni 2.1 Tafla – <Table> 
+# Verkefni 2.1 Tafla – &lt;Table> 
 
-Tabular Data <td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
+Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.    
 
 Afritaðu Verkefni 1 yfir í Verkefni 2 möppuna og bættu síðan við töflu í vefsíðuna. Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
@@ -27,7 +27,6 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 •	Notið „input date“
 •	Notið „select option, checkbox og radio“. 	
 •	Notið aðra leturgerð og stærð í „textarea“
-
 
 ### Námsmat 12%
 
