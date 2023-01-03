@@ -4,11 +4,13 @@ Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðl
 
 Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.    
 
-![Mynd 1.](Námsefni-3/mynd-1.jpg)
 Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
 
-![Mynd 2.](Námsefni-3/mynd-2.jpg)
+![Mynd 1.](Námsefni-3/mynd-1.jpg)
+
 Mynd 2. Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
+
+![Mynd 2.](Námsefni-3/mynd-2.jpg)
 
 ### Skráningarform 
 
