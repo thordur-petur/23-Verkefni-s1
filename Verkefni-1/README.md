@@ -14,7 +14,7 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 
 Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. Ferðir í boði verða að vera raunhæfar a.mk. sannfærandi þannig að maður getur hugsað sér að fara í slíka ferð.
 
-Það sem á að vera á vefnum:
+#### Það sem á að vera á vefnum:
 
 * Upplýsingar um ferðir fyrirtækisins
 * Listi yfir ferðirnar (tafla)
@@ -22,6 +22,8 @@ Fyrirtækið má vera starfandi á markaði en það getur líka verið skálda�
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið
 * Efnisyfirlit (_drop down menu_)
+
+#### Verkáætlun
 
 1. Efnisöflun og hugmyndavinna
    * Skrifið niður allar hugmyndir sem koma til greina
