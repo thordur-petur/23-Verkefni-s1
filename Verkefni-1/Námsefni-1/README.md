@@ -26,4 +26,4 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 
 ![Tengirammi](vinnugogn/SVG/Wireframe.svg)
 
-Næst þarf að [hanna frumgerð](vinnugogn/SVG/prototype.md)
+Næst þarf að [hanna frumgerð](prototype)
