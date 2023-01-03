@@ -4,13 +4,24 @@
 
 Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
 
-### Undirbúningsvinna
+### Undirbúningsvinna og skipulagning vefs
 
-Verkefnið felst í að ... 
+Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera frambærilegur vefur. 
 
-_Efnistök eru frjáls_
+Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin til að hægt sé að meta verkefnin. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
 
-Nemendur skipuleggja eftirfarandi þætti:
+### Þema Ferðaþjónusta
+
+
+Það sem á að vera á vefnum:
+
+  * Upplýsingar um ferðir fyrirtækisins
+  * Listi yfir ferðirnar (tafla)
+  * Skráning í ferðirnar. (pöntunarform _aðeins útlit forms - engin virkni_)
+  * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
+  * Upplýsingar um fyrirtækið
+  * Efnisyfirlit (_drop down menu_)
+
 
 * Efnisöflun og hugmyndavinna
   * Skrifið niður allar hugmyndir sem koma til greina
@@ -20,26 +31,6 @@ Nemendur skipuleggja eftirfarandi þætti:
   * [Búið til leiðakerfi](wireframe/README.md)
 * Frumgerð - _"Prototype"_ 
   * [Útlitshönnun](prototype/README.md)
-
-Það sem á að vera á vefnum:
-
-  * Kvikun (_Animation_) til að fanga athygli notanda
-  * Upplýsingar um viðburð
-  * Tímasetning
-  * Dagskrá
-  * Upplýsingar um afurð fyrirtækisins
-  * Skráning á viðburðin (_aðeins útlit forms - engin virkni_)
-  * Upplýsingar um fyrirtækið sem heldur viðburðin
-  * Viðburðurinn má vera hvar sem er, setjið staðsetningarkort á vefsíðuna
-
-
-#### Verkefnaskil: Öllum vinnugögnum skal skilað í áfangageymsluna 
-
-_Gangi ykkur vel_  
-
-#### Einkunn verður birt í Innu
-
-Nemendur geta unnið verkefnið sem einstaklingsverkefni eða [tveir saman](Hópverkefni.md). 
 
 #### Námsmat 12% af heildareinkunn
 
