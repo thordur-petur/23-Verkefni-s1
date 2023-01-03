@@ -12,8 +12,6 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 
 ### Þema Ferðaþjónusta
 
-
-
 Það sem á að vera á vefnum:
 
 * Upplýsingar um ferðir fyrirtækisins
@@ -23,15 +21,14 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
 * Upplýsingar um fyrirtækið
 * Efnisyfirlit (_drop down menu_)
 
-
 1. Efnisöflun og hugmyndavinna
    * Skrifið niður allar hugmyndir sem koma til greina
 2. Skipurit - _"SiteMap"_
-   * [Búið til efnisyfirlit](Sitemap.md)
+   * [Búið til skipurit](Námsefni-1/Sitemap.md)
 3. Tengirit - _"WireFrame"_
-   * [Búið til leiðakerfi](wireframe/README.md)
+   * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
 4. Frumgerð - _"Prototype"_ 
-   * [Útlitshönnun](prototype/README.md)
+   * [Útlitshönnun](Námsefni-1/prototype/README.md)
 
 #### Námsmat 12% af heildareinkunn
 
