@@ -1,13 +1,51 @@
-# Töflur og form
+# Verkefni 2.1 Tafla – <Table> 
 
-* [Verkefnalýsing 2](https://github.com/vefhonnun/22H/blob/main/Verkefni/V-2/22h_verkefni_2.pdf)
-* [Fylgigögn](https://github.com/vefhonnun/22H/tree/main/S%C3%BDnid%C3%A6mi/V-2)
+Tabular Data <td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
+Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.    
+
+Afritaðu Verkefni 1 yfir í Verkefni 2 möppuna og bættu síðan við töflu í vefsíðuna. Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
+í https://Github.com/vefhonnun/21h/Sýnidæmi/V2/ er dæmi um sveigjanlega töflu.
+
+![Mynd 1.](Námsefni-3/mynd-1.jpg)
+Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
+
+![Mynd 1.](Námsefni-3/mynd-1.jpg)
+Mynd 2. Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
+
+### Skráningarform 
+Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
+  
+### FORM VALIDATION 
+
+Þegar smellt er á hnappinn (input submit) í skráningarforminu þá á vafrinn að athuga (validate) hvort einver texti hafi verið settur í alla innsláttarreitina. Ef reitirnir uppfylla ekki þau skilyrði þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni, ef allt er í lagi þá sendum við innsláttinn út í bláinn. 
+
+` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
+
+•	Ekki er hægt að skilja nafnareit auðan 		
+•	Símanúmer verður að vera tölur (numbers)
+•	Tölvupóstfang verður að vera með @	      	
+•	Notið „input date“
+•	Notið „select option, checkbox og radio“. 	
+•	Notið aðra leturgerð og stærð í „textarea“
+
+
+### Námsmat 12%
+
+#### Tafla 6%
+* 3% 	Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar.  
+Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
+* 3% 	Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
+á litlum skjáum.
+### Form 6%
+* 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
+* 4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
+
 
 ### Verkefnaskil
 
-Öllum vinnugögnum á að skila í áfangageymsluna þína.
+Öllum vinnugögnum á að skila í verkefnageymsluna þína og tengil á verkefnið í Innu.
 
-Einkunn verður birt í Innu.
+#### Einkunn verður birt í Innu.
 
 _Gangi þér vel_
 

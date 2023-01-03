@@ -10,5 +10,13 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíður sem þú getur notað til a
 * [Grunnsíður - Boilerplate](Námsefni-2/)
 * [Sýnidæmi](https://vefhonnun.github.io/Synidaemi/verkefni-2/)
 
+### Námsmat:  12% af heildareinkunn
+
+Skipulag – Layout			6%	
+•	4% Dálkaskipulag - Grid 
+•	2% Myndir aðlagast skjástærðum
+Útlit					6%
+•	4% CSS breytur - Litasamsetning
+•	2% Leturval - leturnotkun	
 
 #### Einkunn verður birt í Innu
