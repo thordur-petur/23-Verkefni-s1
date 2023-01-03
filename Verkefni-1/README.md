@@ -46,6 +46,6 @@ Fyrirtækið má vera starfandi á markaði en það getur líka verið skálda�
 
 - Öllum undirbúningsgögnum er skilað í eigin **"Privat"** verkefnageymslu á github. 
 - Kennari þarf að fá aðgang að verkefnageymslunni (_Settings -> Collaborators -> Invite members_)
-- Tengill á verkefnageymluna er skilað í Innu
+- Tengill á verkefnageymsluna er skilað í Innu
 
 #### Einkunn verður birt í Innu
