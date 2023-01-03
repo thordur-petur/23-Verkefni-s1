@@ -12,5 +12,5 @@
 ## Verkefni
 
 1. [Verkefni](Verkefni-1/)
-2. 
+2. [Verkefni](Verkefni-2/)
 
