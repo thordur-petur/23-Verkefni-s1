@@ -1,4 +1,4 @@
-# KVIKUN
+# KVIKUN - í vinnslu!
 
 ### Markmið:
 Nemendur eiga að öðlast skilning á hvenig hægt er að nota CSS kvikun til að lífga upp á vefsíður og vekja athygli notenda á einstökum hlutum síðunnar. 
