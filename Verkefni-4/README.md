@@ -25,7 +25,7 @@ Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur 
 
 Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/)
+* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-4/)
 
 #### Námsefni
 
