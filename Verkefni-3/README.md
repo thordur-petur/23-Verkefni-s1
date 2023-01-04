@@ -1,6 +1,6 @@
 # Tafla  &lt;Table> 
 
-Bættu töflu inn í vefsíðuna, innhald töflunar á að vera dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta en innihald töflunnar á að vera klárt þegar farið er yfir verkefnið í lykilmatþætti 1. 
+Bættu töflu inn í vefsíðuna, innhald töflunar á að vera dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta en innihald töflunnar á að vera klárt þegar farið er yfir verkefnið í yfirferð verkefna (_Lykilmatsþáttur - 4. verkefni_). 
 
 Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
 
