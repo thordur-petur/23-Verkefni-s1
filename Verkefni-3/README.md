@@ -24,8 +24,12 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
   
 ![Mynd 3.](Námsefni-3/mynd-3.jpg)
 
-#### Form réttritun (_validation_)
-Þegar smellt er á hnappinn (input submit) í skráningarforminu þá á vafrinn að athuga (validate) hvort einver texti hafi verið settur í alla innsláttarreitina. Ef reitirnir uppfylla ekki þau skilyrði þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni, ef allt er í lagi þá sendum við innsláttinn út í bláinn. 
+#### Form 
+
+Í base.css er búið að tilgreina alla helstu þætti sem hægt er að stíla í formtögunum, aðlagið formið að ykkar útlitshönnun og skipulagi.
+
+#### Réttritun (_validation_)
+Þegar smellt er á hnappinn (input submit) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
 
 ` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
 
@@ -39,10 +43,12 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 ### Námsmat 12%
 
 #### Tafla 
-* 3% 	Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar.  
-Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
-* 3% 	Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
+
+* 2% Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
+* 2% Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
+* 2% Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
 á litlum skjáum.
+
 #### Form 
 * 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * 3%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
