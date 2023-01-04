@@ -15,14 +15,15 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 
 Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
+Nú er vinsælt að hafa spjallborð í vefsíðum og yfirleitt er það falið en hnappur er staðsettur neðst í hægra horni. Þegar ýtt er á hnappinn þá birtist spjallborðið.
+
 ## Fellilisti í málsgreinum (_Accordion menu_)
 
-Fellilisti í málgrein er kallaður _Accordion menu_. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) 
-https://www.youtube.com/watch?v=oCx4gtYe410
+Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur og saman eins og harmonika. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) og hér er [annað dæmi](https://codepen.io/alvarotrigo/pen/dyJyxQm)
 
 ## Sprettigluggi (_Pop up menu_)
 
-
+Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
 * [Sýnidæmi](https://github.com/vefhonnun/synidaemi/tree/main/verkefni-4)
 
