@@ -1,3 +1,7 @@
+# Forsíða - Landing page (_í vinnslu_) 
+
+#### Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
+
 #### Hvernig á að sameina margar CSS skrár í eina skrá
 
 1. Opna línuskipanaforritið _Command Promt_ í **PC** eða _Terminal_ í **Mac/Linux** 
@@ -13,7 +17,7 @@
 ### Markmið:
 Nemendur eiga að geta unnið skipulega að gerð vefs.
 
-#### Hannið vef sem unnin er samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
+#### Hannið vef sem unnin er samkvæmt undirbúnings- og skipulagsgögnum 6
 
 Það sem á að vera á vefnum:
 
@@ -26,9 +30,9 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
   * Upplýsingar um fyrirtækið sem heldur viðburðin
   * Viðburðurinn má vera hvar sem er, setjið staðsetningarkort á vefsíðuna
 
-#### Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
 
-#### Námsmat:  20% af heildareinkunn
+
+#### Námsmat:  
 
 1.	Skipulag - innihald  **8%**
    	* SVG lógo er í &lt;header>
