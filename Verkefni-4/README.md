@@ -13,7 +13,7 @@ Sama á við um skjástærðir 20em – 48em, efnisyfirlitið á að vera í fel
  
 Þegar smellt er á ≡ takkann þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
-Sjá dæmi á: [https://vefhonnnun.github.io](https://vefhonnnun.gigthub.io)
+Sjá dæmi á: [https://vefhonnnun.github.io](https://vefhonnnun.github.io)
 
 ## Fellilisti í málsgreinum (_Accordion menu_)
 https://code-boxx.com/simple-responsive-accordion-pure-css/
