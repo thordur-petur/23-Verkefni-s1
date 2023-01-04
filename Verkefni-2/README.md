@@ -19,4 +19,7 @@ Skipulag – Layout			6%
 •	4% CSS breytur - Litasamsetning
 •	2% Leturval - leturnotkun	
 
+#### Innihald vefsíðunnar, texti og myndir er samkvæmt vali þínu í 1. verkefni. Innihaldið þarf ekki að vera 100% tilbúið fyrr en farið er yfir verkefnið í 1. lykilmatsþættinum.
+
+
 #### Einkunn verður birt í Innu
