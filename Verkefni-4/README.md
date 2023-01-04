@@ -22,7 +22,13 @@ https://www.youtube.com/watch?v=oCx4gtYe410
 ## Sprettigluggi (_Pop up menu_)
 
 
-* [Animation Properties](Námsefni-4/animation-properties.md)
+
 * [Sýnidæmi](https://github.com/vefhonnun/synidaemi/tree/main/verkefni-4)
+
+#### Námsefni
+
+* [Complex Selectors](Námsefni-4/README.md)
+* [Animation Properties](Námsefni-4/animation-properties.md)
+
 
 #### Einkunn verður birt í Innu
