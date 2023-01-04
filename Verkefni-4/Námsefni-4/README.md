@@ -1,18 +1,37 @@
-# Sérsniðin eigindi og fleiri stílbrögð
+# Complex Selectors
 
-* [Sérsniðin eigindi](variables.html) 
-* [Eiginda-veljari - Attribute Selectors](attributes.html)
-* [Moz:lla, CSS eigindi - CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-* [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+### Common Selectors 
 
-#### Hvernig á að sameina margar CSS skrár í eina skrá
+| Example  | Classification  | Explanation  |  
+|---|---|---|
+| h1 | Type Selector | Selects an element by its type |
+| .tagline	| Class Selector | Selects an element by the class attribute value, which may be reused multiple times per page |
+| #intro | ID Selector |	Selects an element by the ID attribute value, which is unique and to only be used once per page |
 
-1. Opna línuskipanaforritið _Command Promt_ í **PC** eða _Terminal_ í **Mac/Linux** 
-2. `cd ../css`  (_vísa CLI í css möppuna_)
-3. `dir *.css`  (_skoða allar css skrár_)
-4. `copy *.css styles.css`  (_afrita allar .css skrár í eina: styles.css_)
+### Child Selectors
 
-#### Þjöppun CSS kóða
+| Example | Classification | Explanation |
+|---|---|---|
+| article h2 | Descendant Selector | Selects an element that resides anywhere within an identified ancestor element |
+| article > p | Direct Child Selector | Selects an element that resides immediately inside an identified parent element |
 
-* Sækið viðbót (Extension) í Visual Studio Code sem heitir "CSS Compressor" 
-* Til að þjappa (_Compact_) kóðann saman, notið skipunina: `[shift]+[alt]+[f]`
+### Sibling Selectors 
+
+| Example | Classification | Explanation |
+|---|---|---|
+| h2 ~ p | General Sibling Selector | Selects an element that follows anywhere after the prior element, in which both elements share the same parent |
+| h2 + p | Adjacent Sibling Selector | Selects an element that follows directly after the prior element, in which both elements share the same parent |
+
+### Attribute Selectors 
+
+| Example | Classification | Explanation |
+|---|---|---|
+| a[target] | Attribute Present Selector | Selects an element if the given attribute is present |
+| a[href="http://google.com/"] | Attribute Equals Selector | Selects an element if the given | attribute value exactly matches the value stated |
+| a[href*="login"] | Attribute Contains Selector | Selects an element if the given attribute value contains at least once instance of the value stated |
+| a[href^="https://"] | Attribute Begins With Selector | Selects an element if the given attribute value begins with the value stated |
+| a[href$=".pdf"] | Attribute Ends With Selector | Selects an element if the given attribute value ends with the value stated |
+| a[rel~="tag"] | Attribute Spaced Selector | Selects an element if the given attribute value is whitespace-separated with one word being exactly as stated |
+| a[lang="en"] | Attribute Hyphenated Selector | Selects an element if the given attribute value is hyphen-separated and begins with the word stated |
+
+[Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
