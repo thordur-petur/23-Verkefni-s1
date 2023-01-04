@@ -53,7 +53,8 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 * 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * 3%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
-### [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
+- **[Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)**
+- **[Bjargir](https://github.com/vefhonnun/23-Verkefni-s1/wiki)**
 
 ### Verkefnaskil
 
