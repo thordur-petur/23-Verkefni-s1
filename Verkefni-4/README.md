@@ -9,14 +9,15 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
  
 Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með „fixed“ staðsetningu
 
-Sama á við um skjástærðir 20em – 48em, efnisyfirlitið á að vera í fellilista (drop down menu)
+Í minni skjáum með skjástærðir 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og ≡ hnappur er efst á síðunni
  
-Þegar smellt er á ≡ takkann þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
+Þegar smellt er á ≡ hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
 Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 ## Fellilisti í málsgreinum (_Accordion menu_)
-https://code-boxx.com/simple-responsive-accordion-pure-css/
+
+Fellilisti í málgrein er kallaður _Accordion menu_. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) 
 https://www.youtube.com/watch?v=oCx4gtYe410
 
 ## Sprettigluggi (_Pop up menu_)
