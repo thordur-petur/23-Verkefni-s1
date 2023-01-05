@@ -1,6 +1,6 @@
 # SVG vigurteikng - Vector graphics
 
-* Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. 
+Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. 
 
 ## Icomoon táknletur
 
