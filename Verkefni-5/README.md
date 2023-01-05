@@ -4,7 +4,7 @@
 
 ## Icomoon táknletur
 
-* Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og í félagsmiðlatengla.  
+Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og í félagsmiðlatengla.  
 Veljið ykkur nokkra félagsmiðla (Social Media) og búið til tengla í &lt;footer> sem vísar á þá.  
 
 * Sækið táknletrið með því að smella á „Generate Font“
