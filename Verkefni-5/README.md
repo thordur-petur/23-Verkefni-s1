@@ -1,6 +1,6 @@
 # SVG vigurteikning - _Vector graphics_
 
-Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. 
+Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Það er hægt að teikna það í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
 
 ## Icomoon táknletur
 
@@ -11,7 +11,7 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 * Demo.html síðan sýnir þér hvernig hægt er að setja táknin á vefsíðu.
 * Það er hægt að meðhöndla táknin eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. 
 
-Veljið tákn sem passa við ykkar efnisyfirlit, 
+_Veljið tákn sem passa við ykkar efnisyfirlit_
 
 * [Sýnidæmi]().  
 
