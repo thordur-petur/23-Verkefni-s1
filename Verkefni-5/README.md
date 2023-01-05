@@ -5,7 +5,7 @@
 ## Icomoon táknletur
 
 * Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og í félagsmiðlatengla.  
-Veljið ykkur nokkra félagsmiðla (Social Media) og búið til tengla í &lt;footer> sem vísar á þá.  Fyrir framan hvern tengil er sértákn (logo) miðilsins.  Notaðu Icomoon leturgerðina til þess.
+Veljið ykkur nokkra félagsmiðla (Social Media) og búið til tengla í &lt;footer> sem vísar á þá.  
 
 * Sækið táknletrið með því að smella á „Generate Font“
 * Mappan sem Icomoon hleður inn á tölvuna þína inniheldur „style.css“ og „font“ möppu með leturtáknunum sem þú valdir. Afritaðu „style.css“ og „font“ möppuna
