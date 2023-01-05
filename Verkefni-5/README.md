@@ -4,26 +4,26 @@
 
 ## Icomoon táknletur
 
-Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og í félagsmiðlatengla.  
-Veljið ykkur nokkra félagsmiðla (Social Media) og búið til tengla í &lt;footer> sem vísar á þá.  
+Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og &lt;footer> félagsmiðlatengla (_Social Media_).  
 
 * Sækið táknletrið með því að smella á „Generate Font“
 * Mappan sem Icomoon hleður inn á tölvuna þína inniheldur „style.css“ og „font“ möppu með leturtáknunum sem þú valdir. Afritaðu „style.css“ og „font“ möppuna
 * Demo.html síðan sýnir þér hvernig hægt er að setja táknin á vefsíðu.
 * Það er hægt að meðhöndla táknin eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. 
 
-Veljið tákn sem passa við ykkar efnisyfirlit, eins og sýnt er í [sýnidæminu]().  
+Veljið tákn sem passa við ykkar efnisyfirlit, 
+
+* [Sýnidæmi]().  
 
 ### SVG Bjargir
 
+* [Using SVG](https://css-tricks.com/using-svg/)
 * [Icomoon leturtákn ](https://icomoon.io/)
-* http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/
-* https://css-tricks.com/using-svg/
+* [How to use Icomoon font](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
 
 ### SVG firmamerki
 
 * https://svgporn.com/
-* https://github.com/gilbarbara/logos/tree/master/logos
 
 ### Námsmat 12%
 
