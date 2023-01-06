@@ -1,6 +1,6 @@
 # Kvikun 
 
-Búðu til myndasýningu (_slideshow_) sem hægt er að nota í vefnum þínum.
+Búðu til myndasýningu (_slideshow_) sem **hægt er að nota í vefnum þínum**.
 Sýningin getur innihaldið texta og myndir eða bara annaðhvort, allt eftir því sem þú villt gera.
 
 * Efnisinnihald getur verið tilkynningar, auglýsing, myndaalbúm eða saga.
