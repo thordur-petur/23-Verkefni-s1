@@ -1,4 +1,4 @@
-# Verkefni 7 í vinnslu
+# Verkefni 7 
 
 Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
 
