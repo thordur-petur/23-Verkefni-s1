@@ -1,15 +1,4 @@
-[ANIMATION](https://www.w3schools.com/cssref/css3_pr_animation.asp)
-
-| Value  |  Description |
-| ---- | ---- |
-| animation-name: | Specifies the name of the keyframe you want to bind to  the selector   |
-| animation-duration  | Specifies how many seconds or milliseconds an animation takes to complete  |
-| animation-timing-function	| Specifies the speed curve of the animation  |
-| animation-delay  | Specifies a delay before the animation will start  |
-| animation-iteration-count	| Specifies how many times an animation should be played  |
-| animation-direction  | Specifies whether or not the animation should play in reverse on alternate cycles  |
-| animation-fill-mode  | Specifies what values are applied by the animation outside the time it is executing  |
-| animation-play-state  | Specifies whether the animation is running or paused  |
+# Transition & Transform
 
 [TRANSITION](https://www.w3schools.com/cssref/css3_pr_transition.asp)  
 
