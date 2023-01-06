@@ -2,23 +2,30 @@
 
 Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
 
-Undirbúningur 
+### Undirbúningur 
+
 * Teiknaðu upp lýsingu á því hvað þú ætlar að gera. 
 * Skrifaðu síðan niður hvað gekk upp og hvað má betur fara.
 
-Kóðun
+### Kóðun
+
 * Notið „transition“  og/eða „transform“ ásamt „animation“  til þess að ná athygli notanda. Útfærslan er í ykkar höndum.  
 
-https://speckyboy.com/splash-screen-design/
+* Dæmi: https://speckyboy.com/splash-screen-design/
 
-Námsmat 12%
+### Námsmat 20%
 
-8% 	Athyglisverðar hreyfingar þegar vefsíða hleðst í vafra
-4% 	Hugmyndavinna, skissugerð og skrifleg niðurstaða
+* 4% 	Undirbúningur, skipulag og skissugerð 
+* 4%  Leiðakerfi og svegjanleg virkni (RWD)
+* 4%  Útlitshönnun
+* 8% 	Vefsíða birtist með tilþrifum á skjáinn
 
-Verkefnaskil:  
+### Verkefnaskil
+
 Skilaðu öllum vinnugögnum sem tilheyra verkefninu í Github verkefnageymsluna.
-Einkunn er birt í Innu.
-Gangi þér vel 😊
+
+Einkunn er birt í Innu_.
+
+_Gangi þér vel_ 😊
 
 
