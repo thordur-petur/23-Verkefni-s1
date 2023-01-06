@@ -4,12 +4,11 @@
 
 ### Undirbúningur 
 
-* Teiknaðu upp lýsingu á því hvað þú ætlar að gera. 
-* Skrifaðu síðan niður hvað gekk upp og hvað má betur fara.
+* Teiknaðu upp lýsingu á því hvað þú ætlar að gera áður en þú byrjar á að kóða 
 
 ### Kóðun
 
-* Notið „transition“  og/eða „transform“ ásamt „animation“  til þess að ná athygli notanda. Útfærslan er í ykkar höndum.  
+* Notið _„transition“_  og/eða _„transform“_ ásamt _„animation“_  til þess að ná athygli notanda. Útfærslan er í ykkar höndum.  
 
 * Dæmi: https://speckyboy.com/splash-screen-design/
 
