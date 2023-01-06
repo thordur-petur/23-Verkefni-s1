@@ -3,8 +3,6 @@
 ### Markmið:
 Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
 
-_Transition – transform –
-
 ### Fellilisti í efnisyfirliti (_Drop down menu_)
 
 Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
@@ -32,7 +30,7 @@ Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur 
 #### Námsefni
 
 * [Complex Selectors](Námsefni-4/README.md)
-* [Animation Properties](Námsefni-4/animation-properties.md)
+* [Transition og transform –](Námsefni-4/Transition–Transform –.md)
 
 ### Námsmat 12%
 
