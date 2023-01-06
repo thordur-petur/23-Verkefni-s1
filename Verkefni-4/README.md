@@ -35,7 +35,7 @@ Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur 
 ### Námsmat 12%
 
 * 6% Fellilisti í efnisyfirliti (_Drop down menu_) 
-* 3% Fellilisti í málsgreinum (_Accordion menu_)
+* 3% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)
 * 3% Sprettigluggi (_Pop up menu_)
 
 #### Einkunn verður birt í Innu
