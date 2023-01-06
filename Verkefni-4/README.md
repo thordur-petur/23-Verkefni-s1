@@ -32,10 +32,12 @@ Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur 
 * [Complex Selectors](Námsefni-4/README.md)
 * [Transition og transform](Námsefni-4/Transition-Transform.md)
 
-### Námsmat 12%
-
+### Námsmat 20%
+* 2% 	Undirbúningsgögn og skipulag
+* 2%  Leiðakerfi og svegjanleg virkni (RWD)
+* 2%  Útlitshönnun
 * 6% Fellilisti í efnisyfirliti (_Drop down menu_) 
-* 3% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)
-* 3% Sprettigluggi (_Pop up menu_)
+* 4% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)
+* 4% Sprettigluggi (_Pop up menu_)
 
 #### Einkunn verður birt í Innu
