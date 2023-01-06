@@ -1,8 +1,8 @@
-# Kvikun (_Animation_) 
+# Kvikun 
+
+## animation_
 
 
-
-### HTML
 
 ```HTML
 <div class="kvikun"></div>
@@ -29,3 +29,14 @@
 }
 ```
 [W3schools CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+
+Slideshow - tilkynningar - auglýsingar - myndaalbúm og sögur
+
+Góð síða
+https://www.w3.org/Style/Examples/007/slideshow.en.html#top
+
+https://codeshack.io/pure-css3-image-slideshow-example/
+
+28 Slideshow
+
+https://freefrontend.com/css-slideshows/
