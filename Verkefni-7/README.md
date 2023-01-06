@@ -14,9 +14,9 @@
 
 ### Námsmat 20%
 
-* 4% 	Undirbúningur, skipulag og skissugerð 
-* 4%  Leiðakerfi og svegjanleg virkni (RWD)
-* 4%  Útlitshönnun
+* 3% 	Kvikun, skipulag og skissugerð 
+* 3%  Kvikun, svegjanleg virkni (RWD)
+* 6%  Útlitshönnun - heildaráhrif
 * 8% 	Vefsíða birtist með tilþrifum á skjáinn
 
 ### Verkefnaskil
