@@ -30,7 +30,7 @@ Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur 
 #### Námsefni
 
 * [Complex Selectors](Námsefni-4/README.md)
-* [Transition og transform](Námsefni-4/Transition–Transform.md)
+* [Transition og transform](Námsefni-4/Transition-Transform.md)
 
 ### Námsmat 12%
 
