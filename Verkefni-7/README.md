@@ -23,7 +23,7 @@
 
 Skilaðu öllum vinnugögnum sem tilheyra verkefninu í Github verkefnageymsluna.
 
-Einkunn er birt í Innu_.
+Einkunn er birt í Innu.
 
 _Gangi þér vel_ 😊
 
