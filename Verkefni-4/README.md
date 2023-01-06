@@ -1,7 +1,9 @@
 # Fellilistar og sprettigluggi
 
 ### Markmið:
-Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður.
+Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
+
+_Transition – transform – ath!
 
 ### Fellilisti í efnisyfirliti (_Drop down menu_)
 
