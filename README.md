@@ -30,5 +30,5 @@
 * Í verkefnum 2. og 3. setja nemendur upp vef með eigin vinnuramma (_framework_) og bæta við rammann helstu þáttum útlitshönnunar og virkni sem hægt er að nota í vefsíðugerð.
 * Efnisyfirlit er sett í fellilista og spretti gluggi búinn til ofl. í 4. verkefni
 * Unnið er með SVG teikningar og leturtáknsafn búið til í 5. verkefni 
-* 6. verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn
-* Í 7. verkefni er forsíðan "poppuð upp" með kvikun (_landing page_)
+* Í 6. verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn
+* Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) í 7.verkefni
