@@ -4,7 +4,7 @@
 
 ### Undirbúningur 
 
-* Teiknaðu upp lýsingu á því hvað þú ætlar að gera áður en þú byrjar á að kóða 
+* Teiknaðu/skrifaðu á því hvað þú ætlar að gera áður en þú byrjar á að kóða 
 
 ### Kóðun
 

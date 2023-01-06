@@ -1,42 +1,15 @@
 # Kvikun 
 
-## animation_
+Búðu til myndasýningu (_slideshow_) sem hægt er að nota í vefnum þínum.
+Sýningin getur innihaldið texta og myndir eða bara annaðhvort, allt eftir því sem þú villt gera.
 
+* Efnisinnihald getur verið tilkynningar, auglýsing, myndaalbúm eða saga.
+* Teiknaðu/skrifaðu lýsingu á því hvað þú ætlar að gera áður en þú byrjar á að kóða
 
+### Bjargir
 
-```HTML
-<div class="kvikun"></div>
-```
-### CSS
+* [W3schools CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+* [Slideshow w3.org](https://www.w3.org/Style/Examples/007/slideshow.en.html#top)
+* [CSS3 slideshow dæmi](https://codeshack.io/pure-css3-image-slideshow-example/)
+* [28 Slideshow dæmi](https://freefrontend.com/css-slideshows/)
 
-```CSS
-.kvikun {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  position: relative;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes example {
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-  50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
-  100% {background-color:red; left:0px; top:0px;}
-}
-```
-[W3schools CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
-
-Slideshow - tilkynningar - auglýsingar - myndaalbúm og sögur
-
-Góð síða
-https://www.w3.org/Style/Examples/007/slideshow.en.html#top
-
-https://codeshack.io/pure-css3-image-slideshow-example/
-
-28 Slideshow
-
-https://freefrontend.com/css-slideshows/
