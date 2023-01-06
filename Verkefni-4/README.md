@@ -7,7 +7,7 @@ Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að
 
 Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
  
-Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með „fixed“ staðsetningu
+Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
 
 Í minni skjáum með skjástærðir 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og ≡ hnappur er efst á síðunni
  
