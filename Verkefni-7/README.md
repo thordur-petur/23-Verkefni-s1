@@ -16,7 +16,7 @@
 
 * 3% 	Kvikun, skipulag og skissugerð 
 * 3%  Kvikun, svegjanleg virkni (RWD)
-* 6%  Útlitshönnun - heildaráhrif
+* 6%  Útlitshönnun og skipulag vefs
 * 8% 	Vefsíða birtist með tilþrifum á skjáinn
 
 ### Verkefnaskil
